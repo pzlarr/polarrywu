@@ -2,9 +2,9 @@
   "name": "Nombre",
   "version": "0.0.0",
   "description": "",
-  "main": "polarr.js",
+  "main": "polarywu.js",
   "scripts": {
-  "start": "polarr.js"
+  "start": "polarywu.js"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1"
