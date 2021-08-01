@@ -1,5 +1,5 @@
 {
-  "name": "Nombre",
+  "name": "nombre",
   "version": "0.0.0",
   "description": "",
   "main": "polarywu.js",
@@ -8,5 +8,5 @@
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1"
-  }
+  }npm install
 }
