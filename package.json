@@ -4,7 +4,7 @@
   "description": "",
   "main": "polarr.js",
   "scripts": {
-  "start": "node nombre del archivo creado anteriormente.js"
+  "start": "polarr.js"
   },
   "npm install": {
     "@adiwajshing/baileys": "^3.4.1"
