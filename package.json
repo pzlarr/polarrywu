@@ -2,11 +2,11 @@
   "name": "Nombre",
   "version": "0.0.0",
   "description": "",
-  "main": "nombre del archivo creado anteriormente.js",
+  "main": "polarr.js",
   "scripts": {
   "start": "node nombre del archivo creado anteriormente.js"
   },
-  "dependencies": {
+  "npm install": {
     "@adiwajshing/baileys": "^3.4.1"
   }
 }
