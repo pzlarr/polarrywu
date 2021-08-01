@@ -6,7 +6,7 @@
   "scripts": {
   "start": "polarr.js"
   },
-  "npm install": {
+  "dependencies": {
     "@adiwajshing/baileys": "^3.4.1"
   }
 }
