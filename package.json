@@ -4,7 +4,7 @@
   "description": "",
   "main": "polarywu.js",
   "scripts": {
-  "start": "polarywu.js"
+  "start": "node polarywu.js"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1"
